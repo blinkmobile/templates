@@ -1,4 +1,3 @@
-templates
-=========
+# Blink Platform templates
 
-templates for use with the Blink Platform 
+templates for use with the Blink Platform
